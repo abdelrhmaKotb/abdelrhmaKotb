@@ -12,8 +12,6 @@ I'm a software developer with expertise in frontend and backend technologies. I 
 
 ## Contact Me
 
-- LinkedIn: https://www.linkedin.com/in/abdelrhman-kotb
-- Email: abdelrhmanmossadkotb@gmail.com
-
+- LinkedIn: <a href="https://www.linkedin.com/in/abdelrhman-kotb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sally-elbanawany-a02072202/" height="30" width="40" /></a>
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. I'm open to new opportunities and always excited to learn and grow as a developer.
 
