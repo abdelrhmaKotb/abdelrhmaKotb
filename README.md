@@ -1,6 +1,6 @@
-# Hello, I'm [Abdelrhman Kotb] 👋
+# Hello, I'm Abdelrhman Kotb 👋
 
-I'm a software developer with expertise in frontend and backend technologies. I specialize in building web applications using HTML, CSS, JavaScript, TypeScript, Bootstrap, and Angular on the frontend, and Java, C++, PHP, Spring modules, MySQL, Docker, and Git on the backend.
+I'm a software developer with expertise in frontend and backend technologies. I specialize in building web applications using HTML, CSS, JavaScript, TypeScript, Bootstrap, and Angular on the frontend, and Java ,Spring , Docker, and Git on the backend.
 
 ## Skills
 
@@ -12,8 +12,8 @@ I'm a software developer with expertise in frontend and backend technologies. I 
 
 ## Contact Me
 
-- LinkedIn: [https://www.linkedin.com/in/abdelrhman-kotb]
-- Email: [abdelrhmanmossadkotb@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/abdelrhman-kotb
+- Email: abdelrhmanmossadkotb@gmail.com
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. I'm open to new opportunities and always excited to learn and grow as a developer.
 
